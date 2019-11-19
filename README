@@ -1,0 +1,2 @@
+A python solver for 2D poisson equation based on the finite volume method.
+The solver handles Dirichlet boundary conditions and heterogeneous material properties.
